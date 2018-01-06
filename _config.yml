@@ -1,0 +1,16 @@
+# general
+title: London Jam Cam Search
+author: Sergiu Tripon
+description: ""
+timezone: Europe/London
+
+# urls
+url: "http://sergiu-tripon.com"
+baseurl: "/london-jam-cam-search"
+
+# exclude
+exclude:
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md

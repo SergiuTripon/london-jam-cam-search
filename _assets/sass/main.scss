@@ -1,0 +1,62 @@
+/* html, body */
+html,
+body {
+  /* display & box model */
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  /* text */
+  font-size: 1rem;
+  font-family: 'Nunito', sans-serif;
+}
+/* html, body */
+
+/* h3 */
+h3 {
+  /* text */
+  font-size: 1.25rem;
+
+  @media (min-width: 576px) {
+    /* text */
+    font-size: 1.75rem;
+  }
+}
+/* h3 */
+
+/* .modal-body */
+.modal-body + .modal-body {
+  /* display & Box model */
+  border-top: 1px solid #e9ecef;
+}
+/* .modal-body */
+
+/* #image */
+#image {
+  /* display & Box model */
+  padding-bottom: 1rem;
+
+  @media (min-width: 768px) {
+    /* display & Box model */
+    margin-bottom: 0
+  }
+}
+/* #image */
+
+/* .table-vertical */
+.table-vertical > tbody > tr > th {
+  /* display & Box model */
+  vertical-align: middle;
+  border-right: 2px solid #e9ecef;
+}
+/* .table-vertical */
+
+/* .table-active */
+.table-active,
+.table-active>td,
+.table-active>th {
+  /* color */
+  background-color: rgba(0,0,0,.02);
+}
+/* .table-active */
