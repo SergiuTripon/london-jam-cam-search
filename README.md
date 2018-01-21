@@ -6,4 +6,4 @@
 
 ## London Jam Cam Search by Sergiu Tripon
 
-**Demo**: [http://sergiu-tripon.com/london-jam-cam-search/](http://sergiu-tripon.com/london-jam-cam-search/)
+**Link**: [http://sergiu-tripon.com/london-jam-cam-search/](http://sergiu-tripon.com/london-jam-cam-search/)
